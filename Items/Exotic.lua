@@ -910,6 +910,7 @@ local verisimile = {
 				)
 			elseif
 				context.other_joker.ability.name == "Reserved Parking"
+				or context.other_joker.ability.name == "Business Card"
 				or context.other_joker.ability.name == "Bloodstone"
 				or context.other_joker.ability.name == "cry-Googol Play Card"
 				or context.other_joker.ability.name == "cry-Boredom"
